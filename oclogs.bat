@@ -1,0 +1,1 @@
+oc logs %1 > %1.log
